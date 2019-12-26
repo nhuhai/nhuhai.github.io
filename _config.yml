@@ -30,14 +30,11 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>CSS</mark>
   <mark>SASS</mark>
   <mark>Redux</mark>
-  <mark>Apollo</mark>
   <mark>GraphQL</mark>
   <mark>Jest</mark>
   <mark>Selenium</mark>
   <mark>NodeJS</mark>
-  <mark>TypeScript</mark>
   <mark>Flow</mark>
-  <mark>Webpack</mark>
   <mark>Webpack</mark>
   <mark>Git</mark>
 
@@ -48,12 +45,12 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+# education_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in developing web apps and software engineering, some of my other interests and hobbies are:
    - Playing piano
    - Playing video games on my PS4
    - Hiking
